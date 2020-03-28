@@ -1,0 +1,5 @@
+/llvm-project/
+/pkg/
+/src/
+/emscripten-*.pkg.tar.*
+/emscripten-*.tar.gz
