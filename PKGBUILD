@@ -11,7 +11,7 @@ arch=('x86_64')
 url="http://emscripten.org"
 license=('custom')
 depends=(nodejs python binaryen)
-makedepends=(cmake libxml2 git ninja)
+makedepends=(cmake libxml2 git ninja npm)
 optdepends=('java-environment: for using clojure'
             'ruby: for using websockify addon'
             'cmake: for emcc --show-ports')
